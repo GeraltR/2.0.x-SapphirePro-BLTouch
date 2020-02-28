@@ -100,7 +100,7 @@
 #define SDIO_DATA_TIMEOUT                    100U           /* Read data transfer timeout */
 #define SDIO_WRITE_TIMEOUT                   200U           /* Write data transfer timeout */
 
-#define SDIO_CLOCK                           18000000       /* 18 MHz */
+#define SDIO_CLOCK                           2700000       /* 27 KHz @Geralt it is enough*/
 
 // ------------------------
 // Types
